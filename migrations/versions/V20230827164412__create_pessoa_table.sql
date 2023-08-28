@@ -1,8 +1,8 @@
 CREATE TABLE pessoa
 (
     id         VARCHAR,
-    cpf_cnpj   VARCHAR,
     nome       VARCHAR,
+    cpf_cnpj   VARCHAR,
     nascimento TIMESTAMPTZ,
     seguros    JSONB
 );
