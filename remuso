@@ -1,7 +1,0 @@
-Por que escolhi o GO?
-	- Conhecido por ser mais performatico quando se trata de aplicacoes IO-bounded.
-	- O que é uma aplicacao IO-bounded?
-		- Uma aplicação IO-bound é aquela que passa a maior parte do seu tempo aguardando operações de entrada e saída (I/O) serem concluídas, em vez de executar intensivamente cálculos na CPU.
-		Isso ocorre porque as operações de I/O, como ler e escrever arquivos ou enviar e receber dados pela rede, tendem a ser mais lentas em comparação com a velocidade de processamento da CPU.
-		Portanto, em uma aplicação IO-bound, o desempenho é limitado principalmente pela velocidade de acesso a recursos externos, como discos rígidos ou redes, em vez da capacidade de processamento da CPU.
-
