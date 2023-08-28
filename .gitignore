@@ -1,3 +1,4 @@
 .idea/
+jmeter.log
 ./jmeter/jmeter.log
 ./jmeter/result.jtl
